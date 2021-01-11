@@ -1,2 +1,2 @@
-# eguseva1
-Lab 1 OPS435
+# Elizaveta Guseva, Section NBB
+
